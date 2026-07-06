@@ -1,6 +1,6 @@
-scikit-learn
+streamlit
 pandas
 numpy
-streamlit
+scikit-learn
 plotly
-pickle
+joblib
